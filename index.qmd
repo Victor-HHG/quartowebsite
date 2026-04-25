@@ -1,0 +1,21 @@
+---
+title: "Victor Hugo Hernández García"
+---
+
+## Semblanza
+
+:::: {layout="[ 100, 60 ]"}
+
+::: {#first-column}
+Victor Hugo Hernández García es licenciado en economía por la Facultad de Economía de la UNAM y egresado de la Maestría en Análisis Estadístico y Computación del Centro de Investigación en Matemáticas (CIMAT). Actualmente es jefe de departamento de investigación “A”, en la Dirección General Adjunta de Investigación del INEGI.  
+<br>
+Recibió el premio “Mtro. Jesús Silva Herzog” al mejor artículo publicado en 2022 en la revista Problemas del Desarrollo, del Instituto de Investigaciones Económicas de la UNAM. Se especializa en temas relacionados con el Sistema de Cuentas Nacionales, Matrices de Contabilidad Social e Insumo-Producto, modelos de equilibrio general computable, y distribución funcional y personal del ingreso.
+:::
+
+::: {#second-column}
+![](imagenes/foto1.jpg){width=266 height=400}
+:::
+
+::::
+
+[Lista de publicaciones y colaboraciones](publicaciones.qmd)

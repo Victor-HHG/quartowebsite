@@ -1,0 +1,34 @@
+---
+title: "Publicaciones"
+---
+
+Lista de publicaciones académicas, institucionales y de difusión.
+
+## Publicaciones académicas
+
+- Zahniser, Ortega, Hernández, Solís, Gallegos (2026) An Application of USDA’s Food Dollar Method to Mexico. *Economic Research Servise of the USDA*. ([Liga al documento](https://www.ers.usda.gov/publications/pub-details?pubid=114078))
+
+- Hernández, V. H., Solís, J. V. (2025) La distribución y redistribución del ingreso de los hogares en las Matrices de Contabilidad Social de México. *Economía Informa* Núm. 451, marzo-abril. ([Liga al documento](http://www.economia.unam.mx/assets/pdfs/econinfo/451/05VictorHugo.pdf))
+
+- Hernández, V. H., Mendoza, M. A., Solís, J. V. (2024) Análisis de la descomposición estructural de la matriz insumo-producto multiestatal de México 2013: efectos intrarregionales, de desbordamiento y de retroalimentación. *Realidad Datos y Espacio, Revista internacional de estadística y geografía* Vol. 15, Núm. 1, enero-abril. ([Liga al documento](https://rde.inegi.org.mx/index.php/2024/01/23/analisis-de-la-descomposicion-estructural-de-la-matriz-insumo-producto-multiestatal-de-mexico-2013-efectos-intrarregionales-de-desbordamiento-y-de-retroalimentacion/))
+
+- Solís, J. V., García, H., Márquez, J. M., & Hernández, V. H. (2022) Impacto de la crisis de 2020 en la economía mexicana: un enfoque de insumo-producto con inoperabilidad. *Problemas del Desarrollo. Revista Latinoamericana de Economía, 53*(211), 55-78. ([Liga al documento](https://doi.org/10.22201/iiec.20078951e.2022.211.69832))
+
+- Solís, J. V., Hernández, V., Márquez, J. M. (2021) Evaluación de la Sustitución de importaciones en las cadenas productivas en México: Una aproximación con Pretopología y Teoría de Redes. En Basave, J. (2021) *La Política Industrial en México. Antecedentes, lecciones y propuestas*. IIEc, UNAM. ([Liga al documento](https://doi.org/10.22201/iiec.9786073052788e.2021))
+
+- Robinson, Sherman; Levy, Stephanie; Hernández, Victor; Davies, Rob; Gabriel, Sherwin; Arndt, Channing; van Seventer, Dirk; and Pleitez, Marcelo. (2021) Covid-19 and lockdown policies: A structural simulation model of a bottom-up recession in four countries. *IFPRI Discussion Paper 2015. Washington, DC: International Food Policy Research Institute (IFPRI)*. ([Liga al documento](https://doi.org/10.2499/p15738coll2.134369))
+
+- Rodrıguez, O. C., Estrada, J. M. M., Villanueva, E. J., Garcıa, V. H., Alvarez, F. M., Carmona, A., & Aguirre, V. G. (2014) Análisis pretopológico de los efectos de amplificación y amortiguación en la estructura económica: una comparación de México con paises centro, semiperiferia y periferia. *Artículo para la International Input-Output Conference 2014*.([Liga al documento](http://iioa.org/conferences/22nd/papers/files/1920_20140522051_Art.pdf))
+
+## Publicaciones institucionales
+
+- Instituto Nacional de Estadística y Geografía (2022) *Cuadros de Oferta y Utilización y Matrices Insumo-Producto Multi-Estatales*. ([Liga al producto](https://inegi.org.mx/investigacion/coumip/))
+
+
+- Instituto Nacional de Estadística y Geografía (2021) *Matrices de Contabilidad Social de México*. ([Liga al producto](https://www.inegi.org.mx/investigacion/mcsm/))
+
+## Publicaciones de difusión
+
+- Solís, V., & Hernández, V. (2020) Simulaciones multisectoriales de los posibles efectos de la covid-19 sobre la economía mexicana. En el boletín *Coyuntura Económica, año 2, núm. 2, enero-abril 2020. Coordinación de análisis macroeconométrico prospectivo IIEc-UNAM, Ciudad de México, México.* ([Liga al documento](http://ru.iiec.unam.mx/4993/))
+
+- Solís, V., Hernández, V., & Leyva, G. El déficit que no era. Revista Nexos, Octubre de 2018. ([Liga al documento](https://www.nexos.com.mx/?p=39554))
